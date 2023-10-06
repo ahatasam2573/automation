@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-06T05:58:49Z" name="Default suite" finished-at="2023-10-06T05:58:50Z" duration-ms="44">
+    <groups>
+    </groups>
+    <test started-at="2023-10-06T05:58:49Z" name="Default test" finished-at="2023-10-06T05:58:50Z" duration-ms="44">
+      <class name="com.siam.web_automation.TestNGExamples">
+        <test-method is-config="true" signature="beforeSuiteExample()[pri:0, instance:com.siam.web_automation.TestNGExamples@69f1a286]" started-at="2023-10-06T11:58:49Z" name="beforeSuiteExample" finished-at="2023-10-06T11:58:49Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuiteExample -->
+        <test-method is-config="true" signature="beforeTestExample()[pri:0, instance:com.siam.web_automation.TestNGExamples@69f1a286]" started-at="2023-10-06T11:58:49Z" name="beforeTestExample" finished-at="2023-10-06T11:58:49Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestExample -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.siam.web_automation.TestNGExamples@69f1a286]" started-at="2023-10-06T11:58:49Z" name="beforeClass" finished-at="2023-10-06T11:58:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.siam.web_automation.TestNGExamples@69f1a286]" started-at="2023-10-06T11:58:49Z" name="beforeMethod" finished-at="2023-10-06T11:58:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testExample2()[pri:0, instance:com.siam.web_automation.TestNGExamples@69f1a286]" started-at="2023-10-06T11:58:49Z" name="testExample2" finished-at="2023-10-06T11:58:49Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExample2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.siam.web_automation.TestNGExamples@69f1a286]" started-at="2023-10-06T11:58:49Z" name="afterMethod" finished-at="2023-10-06T11:58:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.siam.web_automation.TestNGExamples@69f1a286]" started-at="2023-10-06T11:58:49Z" name="beforeMethod" finished-at="2023-10-06T11:58:49Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testExample()[pri:1, instance:com.siam.web_automation.TestNGExamples@69f1a286]" started-at="2023-10-06T11:58:49Z" name="testExample" finished-at="2023-10-06T11:58:49Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExample -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.siam.web_automation.TestNGExamples@69f1a286]" started-at="2023-10-06T11:58:49Z" name="afterMethod" finished-at="2023-10-06T11:58:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.siam.web_automation.TestNGExamples@69f1a286]" started-at="2023-10-06T11:58:50Z" name="afterClass" finished-at="2023-10-06T11:58:50Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTestExample()[pri:0, instance:com.siam.web_automation.TestNGExamples@69f1a286]" started-at="2023-10-06T11:58:50Z" name="afterTestExample" finished-at="2023-10-06T11:58:50Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestExample -->
+        <test-method is-config="true" signature="afterSuiteExample()[pri:0, instance:com.siam.web_automation.TestNGExamples@69f1a286]" started-at="2023-10-06T11:58:50Z" name="afterSuiteExample" finished-at="2023-10-06T11:58:50Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuiteExample -->
+      </class> <!-- com.siam.web_automation.TestNGExamples -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
